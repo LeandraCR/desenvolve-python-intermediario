@@ -1,0 +1,5 @@
+
+Bem-vindo ao sistema de layout!
+Aqui tu pode testar diferentes modelos de texto utilizando a biblioteca `rich` do Python.
+
+Experimente criar novos formatos e estilos para deixar sua aplicacao mais interativa.
