@@ -1,0 +1,63 @@
+/* Estilizando o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* Cabeçalhos */
+h1, h2, h3 {
+    color: #2c3e50;
+    font-weight: bold;
+}
+
+/* Links */
+a {
+    color: #2980b9;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Estilo para os blocos de código */
+pre {
+    background-color: #ecf0f1;
+    border-left: 4px solid #3498db;
+    padding: 10px;
+    font-family: "Courier New", Courier, monospace;
+    overflow-x: auto;
+}
+
+/* Estilizando a tabela */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+table, th, td {
+    border: 1px solid #bdc3c7;
+}
+
+th {
+    background-color: #34495e;
+    color: #fff;
+    padding: 10px;
+    text-align: left;
+}
+
+td {
+    padding: 10px;
+}
+
+/* Rodapé */
+footer {
+    margin-top: 50px;
+    text-align: center;
+    color: #7f8c8d;
+    font-size: 12px;
+}

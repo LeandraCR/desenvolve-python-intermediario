@@ -6,6 +6,14 @@ console = Console()
 
 def mostrar_layout(texto: str, isArquivo: bool):
     """Imprime um layout com o texto fornecido ou com o conteúdo de um arquivo."""
+
+    """
+    Exibe o texto ou o conteúdo de um arquivo em um layout dividido em 'header', 'body' e 'footer'.
+
+    Args:
+        texto (str): Texto ou caminho do arquivo a ser exibido.
+        isArquivo (bool): Se True, o argumento 'texto' é tratado como caminho de arquivo.
+    """
     
     # Cria um layout vazio
     layout = Layout()
@@ -27,6 +35,14 @@ def mostrar_layout(texto: str, isArquivo: bool):
 
 def layout_com_borda(texto: str, isArquivo: bool):
     """Imprime o conteúdo com um layout e borda."""
+
+    """
+    Exibe o texto ou o conteúdo de um arquivo em um layout com borda colorida.
+
+    Args:
+        texto (str): Texto ou caminho do arquivo a ser exibido.
+        isArquivo (bool): Se True, o argumento 'texto' é tratado como caminho de arquivo.
+    """
     
     # Cria um layout vazio
     layout = Layout()

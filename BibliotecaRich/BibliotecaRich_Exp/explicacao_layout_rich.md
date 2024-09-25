@@ -1,4 +1,3 @@
-
 Esse código usa a biblioteca `rich` para imprimir textos de maneira mais estilosa no terminal, criando layouts e permitindo que você leia de arquivos ou mostre diretamente um texto. Agora, vamos detalhar cada parte de uma maneira bem simples:
 
 ### Importando coisas que vamos usar:
